@@ -1,1 +1,1 @@
-# GameStore
+# GameStore Project
